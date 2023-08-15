@@ -1,0 +1,13 @@
+CNIOT,core,Monday1,Monday2
+OSSP,core,Monday1,
+APS,core,Wednesday2,
+AI,elective,Monday1,Wednesday3
+SE,elective,Monday2,Wednesday3
+ML,elective,Wednesday3,
+DS,core,Monday3,Monday5
+SDF,core,Wednesday4,
+POM,elective,Wednesday3,
+FOSC,elective,Monday5,
+FOCC,elective,Monday5,Thursday7
+SMS,elective,Thursday7,
+Room1,Room2,Room3,Room4
